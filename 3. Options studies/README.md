@@ -10,4 +10,5 @@ As we widen our strike, our profit and probability of success increases acting m
 - The ideal trading width for spreads is between 5-10
 - Marginal cost helps find the ideal long legs to purchase within those range.
 - The higher the marginal cost, less reduction of ROC when widening our strikes
+### Example df of optimized spread
 ![](optimized-spread.jpg)
