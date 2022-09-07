@@ -1,4 +1,4 @@
-# Basic of Options
+# Basics of Options
 ### What are options?
 
  Options are contract that allows a person to either buy or sell 100 shares of stocks at a certain price point.
