@@ -26,7 +26,7 @@ The option analysis provide option sellers an edge by giving statistical evidenc
 Option script gives traders freedom to input their own number to create their own simulated trade to compare different trading strategies
 
 ### Option strategies used
-![](short-put.jpg)
-![](short-call.jpg)
-![](put-credit-spread.jpg)
-![](call-credit-spread.jpg)
+![](images/short-put.jpg)
+![](images/short-call.jpg)
+![](images/put-credit-spread.jpg)
+![](images/call-credit-spread.jpg)
